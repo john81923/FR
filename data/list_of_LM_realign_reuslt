@@ -1,0 +1,34 @@
+create : /data2/johnnyalg1/data/FR/vloggerface/align_data_realign_bad_pose_060921realign
+     Empty_count ... : 67191/373178
+create : /data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200608_nir150_new_copy_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200608_nir150_new_copy]: 578/37857
+create : /data2/johnnyalg1/data/FR/mi8/20200611_nir150_new_copy_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/20200611_nir150_new_copy]: 563/93502
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_A_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_A_nir150]: 551/85857
+
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_B_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_B_nir150]: 1531/89226
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_C_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_C_nir150]: 697/63879
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_D_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_D_nir150]: 924/104165
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_E_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_E_nir150]: 1846/121715
+
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200608_nir150_new_copy_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200608_nir150_new_copy]: 293/16670
+
+create : /data2/johnnyalg1/data/FR/Guizhou_NIR_dataset_kfr_0304_trainval/train_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/Guizhou_NIR_dataset_kfr_0304_trainval/train]: 54/155366
+
+create : /data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_F_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_liu_112x112_20200709_F_nir150]: 2218/127138
+create : /data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200803_A_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200803_A_nir150]: 2948/158474
+create : /data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200803_B_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200803_B_nir150]: 2102/151114
+create : /data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200803_C_nir150_060921realign
+     Empty_count [/data2/johnnyalg1/data/FR/mi8/mi8_mdong_112x112_20200803_C_nir150]: 1365/118559
+
+create : /data2/johnnyalg1/data/FR/insightface/ms1m-retinaface-t1-112x112_rgb_badpose_fix_bad_angle_realign_060921realign : 399302/3692365
