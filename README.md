@@ -1,4 +1,4 @@
-# **K**neron **F**ace **R**ecognition Framework (KFR-Framework)
+# ** **F**ace **R**ecognition Framework (KFR-Framework)
 
 - Original NIR　dataset ```/mnt/sdc/craig/Guizhou_NIR_dataset_kfr```
 - trainval NIR　dataset ```/mnt/sdc/craig/Guizhou_NIR_dataset_kfr_0304_trainval```
